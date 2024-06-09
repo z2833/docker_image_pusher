@@ -1,2 +1,2 @@
-emqx:5.0.0
+emqx:5.7.0
 python:alpine3.19
