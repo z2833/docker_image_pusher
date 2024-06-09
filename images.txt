@@ -1,3 +1,2 @@
-alpine
-kasmweb/nginx:1.25.3
+emqx:5.0.0
 python:alpine3.19
