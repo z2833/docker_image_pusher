@@ -1,3 +1,4 @@
 emqx:5.7.0
 python:alpine3.19
 homeassistant/home-assistant
+homeassistant/armv7-hassio-supervisor
